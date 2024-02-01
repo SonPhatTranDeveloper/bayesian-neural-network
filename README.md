@@ -2,6 +2,8 @@
 
 This code repository contains implementation for Bayesian Neural Network
 
+![Bayesian Neural Network on sinusoidal data](figures/bayes_net.png)
+
 ## Install the required libraries
 Run ```pip install -r requirements.txt``` to install the required libraries
 
